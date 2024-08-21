@@ -1,0 +1,292 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Clauses and Phrases",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of these is an independent clause?",
+          "options": [
+            "because the sun was shining",
+            "while we were playing",
+            "The birds sang loudly",
+            "if it snows tomorrow"
+          ],
+          "answer": 2,
+          "explanation": "This clause has a subject (birds) and a verb (sang) and can stand alone as a complete sentence."
+        },
+        {
+          "questionNo": 2,
+          "question": "What type of clause is 'although it was late'?",
+          "options": [
+            "Independent clause",
+            "Dependent clause"
+          ],
+          "answer": 1,
+          "explanation": "This clause has a subject and verb but can't stand alone as a sentence, making it a dependent clause."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank: The part of a sentence that contains the main idea is usually the _______ clause. (dependent / independent)",
+          "options": [
+            "dependent",
+            "independent"
+          ],
+          "answer": 1,
+          "explanation": "The independent clause typically contains the main idea of a sentence."
+        },
+        {
+          "questionNo": 4,
+          "question": "In the sentence 'I love ice cream, but I'm allergic to milk,' how many independent clauses are there?",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 2,
+          "explanation": "Both 'I love ice cream' and 'I'm allergic to milk' are independent clauses."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank: A clause that adds extra information to an independent clause is called a _______. (dependent clause / phrase)",
+          "options": [
+            "dependent clause",
+            "phrase"
+          ],
+          "answer": 0,
+          "explanation": "Dependent clauses add extra information but can't stand alone as sentences."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of these is not a clause?",
+          "options": [
+            "The cat meowed",
+            "When the bell rang",
+            "Under the table",
+            "If it rains tomorrow"
+          ],
+          "answer": 2,
+          "explanation": "'Under the table' is a phrase, not a clause; it is a prepositional phrase."
+        },
+        {
+          "questionNo": 7,
+          "question": "In the sentence 'Although it was cold, we went to the park,' which part is the independent clause?",
+          "options": [
+            "Although it was cold",
+            "we went to the park",
+            "Both are independent",
+            "Neither is independent"
+          ],
+          "answer": 1,
+          "explanation": "'We went to the park' can stand alone as a sentence, making it an independent clause."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of these is a dependent clause?",
+          "options": [
+            "The sun is shining",
+            "Birds are singing",
+            "While the children played",
+            "I love chocolate"
+          ],
+          "answer": 2,
+          "explanation": "This clause has a subject and verb but can't stand alone as a sentence, making it dependent."
+        },
+        {
+          "questionNo": 9,
+          "question": "What makes a clause independent?",
+          "options": [
+            "It has a subject",
+            "It has a verb",
+            "It has both a subject and a verb",
+            "It has a subject, and verb, and forms a complete thought"
+          ],
+          "answer": 3,
+          "explanation": "An independent clause needs all three elements to stand alone as a sentence."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: In the sentence 'If it rains, we'll stay home,' the clause 'If it rains' is called the _______ clause. (dependent / independent)",
+          "options": [
+            "dependent",
+            "independent"
+          ],
+          "answer": 0,
+          "explanation": "'If it rains' cannot stand alone as a sentence, so it's the dependent clause."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of these sentences contains both an independent and a dependent clause?",
+          "options": [
+            "The dog barked loudly.",
+            "We went to the store and bought groceries.",
+            "Because it was sunny, we had a picnic.",
+            "The cat slept on the couch all day."
+          ],
+          "answer": 2,
+          "explanation": "'Because it was sunny' is the dependent clause, and 'we had a picnic' is the independent clause."
+        },
+        {
+          "questionNo": 12,
+          "question": "What is a phrase?",
+          "options": [
+            "A complete sentence",
+            "A group of words with a subject and verb",
+            "A group of words without a subject and verb",
+            "A single word"
+          ],
+          "answer": 2,
+          "explanation": "A phrase is a group of words that work together but don't have both a subject and a verb."
+        },
+        {
+          "questionNo": 13,
+          "question": "True or False: A phrase can be a complete sentence.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "A phrase cannot be a complete sentence because it lacks either a subject or a verb (or both)."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: 'In the park' is an example of a _______ phrase. (Noun / Prepositional)",
+          "options": [
+            "Noun",
+            "Prepositional"
+          ],
+          "answer": 1,
+          "explanation": "This phrase starts with a preposition (in) and tells us where, making it a prepositional phrase."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of these is a noun phrase?",
+          "options": [
+            "ran quickly",
+            "the big red balloon",
+            "under the bridge",
+            "very loudly"
+          ],
+          "answer": 1,
+          "explanation": "This phrase names a thing (balloon), so it's a noun phrase."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of these is a prepositional phrase?",
+          "options": [
+            "the yellow sun",
+            "was running fast",
+            "on the table",
+            "very quietly"
+          ],
+          "answer": 2,
+          "explanation": "This phrase starts with a preposition (on) and tells us where, making it a prepositional phrase."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following is a phrase?",
+          "options": [
+            "I love ice cream.",
+            "On the table",
+            "The dog barked.",
+            "The cow mooed."
+          ],
+          "answer": 1,
+          "explanation": "A phrase is a group of words without a subject and verb. 'On the table' is a phrase."
+        },
+        {
+          "questionNo": 18,
+          "question": "A phrase can stand alone as a complete sentence. (True / False)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "A phrase cannot stand alone as a sentence because it doesn’t have a complete thought."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: A clause must have a ______ and a verb. (object / subject)",
+          "options": [
+            "object",
+            "subject"
+          ],
+          "answer": 1,
+          "explanation": "A clause needs both a subject and a verb to form a complete idea."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following is a phrase?",
+          "options": [
+            "She sings well.",
+            "In the morning"
+          ],
+          "answer": 1,
+          "explanation": "'In the morning' is a phrase because it lacks a subject and a verb."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which of the following is an independent clause?",
+          "options": [
+            "Although it was raining",
+            "She finished her homework",
+            "Because he was late",
+            "After the movie ended"
+          ],
+          "answer": 1,
+          "explanation": "An independent clause can stand alone as a complete sentence. 'She finished her homework' is a complete sentence."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which of the following is a dependent clause?",
+          "options": [
+            "The sun is shining",
+            "He went to the park",
+            "Since she was tired",
+            "They are playing outside"
+          ],
+          "answer": 2,
+          "explanation": "A dependent clause cannot stand alone as a complete sentence and needs more information. 'Since she was tired' needs more to make sense."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which of these is a complete thought and can stand alone?",
+          "options": [
+            "If you study hard",
+            "When the bell rings",
+            "I love pizza",
+            "Before we go home"
+          ],
+          "answer": 2,
+          "explanation": "'I love pizza' is an independent clause because it makes sense on its own."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which of the following is a dependent clause?",
+          "options": [
+            "We will go swimming",
+            "After the storm passed",
+            "The dog barked loudly",
+            "She sings beautifully"
+          ],
+          "answer": 1,
+          "explanation": "'After the storm passed' is a dependent clause because it needs more information to be a complete sentence."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of the following contains both a dependent and an independent clause?",
+          "options": [
+            "She went to the store",
+            "Before we left, we packed our bags",
+            "The cat slept",
+            "While I was sleeping"
+          ],
+          "answer": 1,
+          "explanation": "'Before we left' is the dependent clause, and 'we packed our bags' is the independent clause."
+        }
+      ]
+    }
+  ]
+}
